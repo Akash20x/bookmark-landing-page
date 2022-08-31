@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [github pages](https://.github.io/bookmark/)
+- Live Site URL: [github pages](https://akash20x.github.io/bookmark-landing-page/)
 
 ## My process
 
