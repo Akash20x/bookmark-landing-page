@@ -31,7 +31,6 @@ Users should be able to:
 
 ### Screenshot
 
-![](./mobile-view.png)
 ![](./desktop-view.png)
 
 ### Links
